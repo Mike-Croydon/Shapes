@@ -9,6 +9,7 @@ double Triangle::getArea() {
 	return area;
 }
 
+//This function doesn't make sense
 double Triangle::getPerimeter()
 {
 	cout << "Triangle::getPerimeter called, this function assumes an equilateral triangle " << endl;
